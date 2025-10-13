@@ -3,20 +3,104 @@
   "WorkspaceRootPath": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|C:\\GitHub\\GitHub\\DACNMP-Nhom06\\project8\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|C:\\GitHub\\GitHub\\DACNMP-Nhom06\\project8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\models\\data\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\models\\data\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\areas\\admin\\views\\home\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\areas\\admin\\views\\home\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\areas\\admin\\views\\home\\detailsbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\areas\\admin\\views\\home\\detailsbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\areas\\admin\\views\\home\\showlistbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\areas\\admin\\views\\home\\showlistbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\cart\\trackingoderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\cart\\trackingoderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\areas\\admin\\views\\home\\detailsorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\areas\\admin\\views\\home\\detailsorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\areas\\admin\\views\\home\\addauthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\areas\\admin\\views\\home\\addauthor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\home\\doitra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\home\\doitra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\home\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\home\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\home\\quydinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\home\\quydinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\home\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\home\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\home\\showcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\home\\showcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\home\\themesbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\home\\themesbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\home\\vanchuyen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\home\\vanchuyen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\user\\thongbaokichhoat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\user\\thongbaokichhoat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\user\\xacnhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\user\\xacnhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|C:\\GitHub\\GitHub\\DACNMP-Nhom06\\project8\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|c:\\github\\github\\dacnmp-nhom06\\project8\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{679F0B05-C02A-4192-8BF8-9772215156A1}|Project8\\WebBanSach.csproj|solutionrelative:project8\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +110,327 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Models\\Data\\Sach.cs",
+              "RelativeDocumentMoniker": "Project8\\Models\\Data\\Sach.cs",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Models\\Data\\Sach.cs",
+              "RelativeToolTip": "Project8\\Models\\Data\\Sach.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:44:44.446Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowListBook.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Views\\Home\\ShowListBook.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Areas\\Admin\\Views\\Home\\ShowListBook.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Views\\Home\\ShowListBook.cshtml",
+              "RelativeToolTip": "Project8\\Areas\\Admin\\Views\\Home\\ShowListBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T15:35:27.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddBook.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Views\\Home\\AddBook.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Areas\\Admin\\Views\\Home\\AddBook.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Views\\Home\\AddBook.cshtml",
+              "RelativeToolTip": "Project8\\Areas\\Admin\\Views\\Home\\AddBook.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T15:31:56.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailsBook.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Views\\Home\\DetailsBook.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Areas\\Admin\\Views\\Home\\DetailsBook.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Views\\Home\\DetailsBook.cshtml",
+              "RelativeToolTip": "Project8\\Areas\\Admin\\Views\\Home\\DetailsBook.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T15:30:17.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Project8\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:03:12.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAGoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:03:19.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project8\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAtwEkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T18:11:43.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "Project8\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T18:11:32.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetailsOrder.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Views\\Home\\DetailsOrder.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Areas\\Admin\\Views\\Home\\DetailsOrder.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Views\\Home\\DetailsOrder.cshtml",
+              "RelativeToolTip": "Project8\\Areas\\Admin\\Views\\Home\\DetailsOrder.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T15:30:50.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrackingOderDetails.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Cart\\TrackingOderDetails.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\Cart\\TrackingOderDetails.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Cart\\TrackingOderDetails.cshtml",
+              "RelativeToolTip": "Project8\\Views\\Cart\\TrackingOderDetails.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAtwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T15:33:56.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuyDinh.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\QuyDinh.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\Home\\QuyDinh.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\QuyDinh.cshtml",
+              "RelativeToolTip": "Project8\\Views\\Home\\QuyDinh.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:13:42.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Help.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\Help.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\Home\\Help.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\Help.cshtml",
+              "RelativeToolTip": "Project8\\Views\\Home\\Help.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:12:31.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoiTra.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\DoiTra.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\Home\\DoiTra.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\DoiTra.cshtml",
+              "RelativeToolTip": "Project8\\Views\\Home\\DoiTra.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:12:29.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Project8\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:12:24.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Project8\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:12:22.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddAuthor.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Views\\Home\\AddAuthor.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Areas\\Admin\\Views\\Home\\AddAuthor.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Views\\Home\\AddAuthor.cshtml",
+              "RelativeToolTip": "Project8\\Areas\\Admin\\Views\\Home\\AddAuthor.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T13:45:43.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchResult.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\SearchResult.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\Home\\SearchResult.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\SearchResult.cshtml",
+              "RelativeToolTip": "Project8\\Views\\Home\\SearchResult.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:13:32.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShowCategory.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\ShowCategory.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\Home\\ShowCategory.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\ShowCategory.cshtml",
+              "RelativeToolTip": "Project8\\Views\\Home\\ShowCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:13:38.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThemesBook.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\ThemesBook.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\Home\\ThemesBook.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\ThemesBook.cshtml",
+              "RelativeToolTip": "Project8\\Views\\Home\\ThemesBook.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:13:25.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VanChuyen.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\VanChuyen.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\Home\\VanChuyen.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\VanChuyen.cshtml",
+              "RelativeToolTip": "Project8\\Views\\Home\\VanChuyen.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:13:24.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Project8\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:13:16.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThongBaoKichHoat.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\User\\ThongBaoKichHoat.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\User\\ThongBaoKichHoat.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\User\\ThongBaoKichHoat.cshtml",
+              "RelativeToolTip": "Project8\\Views\\User\\ThongBaoKichHoat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:13:14.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "XacNhan.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\User\\XacNhan.cshtml",
+              "RelativeDocumentMoniker": "Project8\\Views\\User\\XacNhan.cshtml",
+              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\User\\XacNhan.cshtml",
+              "RelativeToolTip": "Project8\\Views\\User\\XacNhan.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T14:13:11.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Project8\\Areas\\Admin\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Project8\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T18:13:38.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Project8\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -59,34 +438,7 @@
               "RelativeToolTip": "Project8\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T18:13:20.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project8\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Project8\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADsAAAAAAAAAAAAhwEUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T18:11:43.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Book\\Details.cshtml",
-              "RelativeDocumentMoniker": "Project8\\Views\\Book\\Details.cshtml",
-              "ToolTip": "C:\\GitHub\\GitHub\\DACNMP-Nhom06\\Project8\\Views\\Book\\Details.cshtml",
-              "RelativeToolTip": "Project8\\Views\\Book\\Details.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAhwCcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T18:11:32.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T18:13:20.005Z"
             }
           ]
         }

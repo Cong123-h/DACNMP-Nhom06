@@ -672,6 +672,9 @@
     <Content Include="Content\PagedList.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="images\a1.jpg" />
+    <Content Include="images\a2.jpg" />
+    <Content Include="images\a3.jpg" />
     <Content Include="images\bloc-sieu-dai.jpg" />
     <Content Include="images\co-gai-dan-mach.jpg" />
     <Content Include="images\combo-chao-con.jpg" />
@@ -679,9 +682,6 @@
     <Content Include="images\cu-binh-tinh.jpg" />
     <Content Include="images\dam-lam-giau.jpg" />
     <Content Include="images\den-khong-hat-bong.jpg" />
-    <Content Include="images\h1.jpg" />
-    <Content Include="images\h2.jpg" />
-    <Content Include="images\h3.jpg" />
     <Content Include="images\harrypotter.jpg" />
     <Content Include="images\icon_fb_2x.jpg" />
     <Content Include="images\icon_g_2x.jpg" />

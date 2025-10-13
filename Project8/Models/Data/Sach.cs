@@ -32,7 +32,7 @@
         public int MaTG { get; set; }
 
         [StringLength(250)]
-        [Display(Name = "Tên sách")]
+        [Display(Name = "Tên Sản phẩm")]
         [Required(ErrorMessage = "Vui lòng nhập tên sách")]
         public string TenSach { get; set; }
 
@@ -45,7 +45,7 @@
         public string Mota { get; set; }
 
         [StringLength(50)]
-        [Display(Name = "Người dịch")]
+        [Display(Name = "Đơn vị vận chuyển")]
         public string NguoiDich { get; set; }
 
         [StringLength(50)]
